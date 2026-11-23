@@ -1,0 +1,35 @@
+# ANALISIS SENTIMEN KOMENTAR YOUTUBE TIMNAS INDONESIA
+
+## Deskripsi Proyek
+Proyek ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Analisis Sentimen.
+
+Penelitian ini bertujuan untuk mengetahui kecenderungan sentimen masyarakat terhadap Timnas Indonesia berdasarkan komentar yang terdapat pada media sosial YouTube.
+
+## Sumber Data
+- Media sosial: YouTube
+- Topik: Timnas Indonesia
+- Jumlah data awal: 342 komentar
+- Jumlah data setelah cleaning: 336 komentar
+
+## Tahapan Pengerjaan
+1. Scraping komentar YouTube.
+2. Data cleaning.
+3. Text preprocessing.
+4. Analisis dan klasifikasi sentimen menggunakan metode Lexicon-Based.
+5. Perhitungan jumlah sentimen positif, negatif, dan netral.
+
+## Tools yang Digunakan
+- Python
+- Google Colab
+- Pandas
+- Matplotlib
+- YouTube
+- GitHub
+
+## Hasil Proyek
+Hasil akhir berupa pengelompokan komentar ke dalam tiga kategori sentimen, yaitu positif, negatif, dan netral.
+
+Jumlah dan persentase setiap kategori ditampilkan berdasarkan hasil pengolahan dataset.
+
+## Penutup
+Proyek ini diharapkan dapat memberikan gambaran mengenai tanggapan masyarakat terhadap Timnas Indonesia melalui komentar YouTube.
